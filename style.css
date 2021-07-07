@@ -13,3 +13,8 @@ p.introduction{
     font-size: larger;
     color:darkorchid;
 }
+img.introduction{
+    margin-left:auto;
+    margin-right: auto;
+    display:block;
+}
